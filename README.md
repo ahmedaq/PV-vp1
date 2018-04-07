@@ -52,4 +52,4 @@ To visualizing the step-by-step procedure and the corresponding output
 2. Open the "main.html" file in your browser
 
 ## Troubleshooting
-For any questions or comments, please email me at ahmedaq@gmail.com. 
+For any questions or comments, please email at ahmedaq@gmail.com. 
