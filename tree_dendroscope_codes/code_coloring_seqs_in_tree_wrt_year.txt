@@ -1,0 +1,163 @@
+select all;
+set edgewidth=2;
+deselect all;
+select nodes = leaves; set nodesize = 6; set nodeshape = oval; set color=144   238   144; set fillcolor =144   238   144;
+deselect all; 
+
+find searchtext=|1960|; 
+set color=228 26 28;set labelcolor=228 26 28; set fillcolor=228 26 28;deselect all;
+
+find searchtext=|1961|; 
+set color=228 26 28;set labelcolor=228 26 28; set fillcolor=228 26 28;deselect all;
+
+find searchtext=|1962|; 
+set color=228 26 28;set labelcolor=228 26 28; set fillcolor=228 26 28;deselect all;
+
+find searchtext=|1963|; 
+set color=228 26 28;set labelcolor=228 26 28; set fillcolor=228 26 28;deselect all;
+
+find searchtext=|1964|; 
+set color=228 26 28;set labelcolor=228 26 28; set fillcolor=228 26 28;deselect all;
+
+find searchtext=|1965|; 
+set color=228 26 28;set labelcolor=228 26 28; set fillcolor=228 26 28;deselect all;
+
+find searchtext=|1966|; 
+set color=228 26 28;set labelcolor=228 26 28; set fillcolor=228 26 28;deselect all;
+
+find searchtext=|1967|; 
+set color=228 26 28;set labelcolor=228 26 28; set fillcolor=228 26 28;deselect all;
+
+find searchtext=|1968|; 
+set color=228 26 28;set labelcolor=228 26 28; set fillcolor=228 26 28;deselect all;
+
+find searchtext=|1969|; 
+set color=228 26 28;set labelcolor=228 26 28; set fillcolor=228 26 28;deselect all;
+
+
+find searchtext=|1970|; 
+set color=55 126 184;set labelcolor=55 126 184; set fillcolor=55 126 184;deselect all;
+
+find searchtext=|1971|; 
+set color=55 126 184;set labelcolor=55 126 184; set fillcolor=55 126 184;deselect all;
+
+find searchtext=|1972|; 
+set color=55 126 184;set labelcolor=55 126 184; set fillcolor=55 126 184;deselect all;
+
+find searchtext=|1973|; 
+set color=55 126 184;set labelcolor=55 126 184; set fillcolor=55 126 184;deselect all;
+
+find searchtext=|1974|; 
+set color=55 126 184;set labelcolor=55 126 184; set fillcolor=55 126 184;deselect all;
+
+find searchtext=|1975|; 
+set color=55 126 184;set labelcolor=55 126 184; set fillcolor=55 126 184;deselect all;
+
+find searchtext=|1976|; 
+set color=55 126 184;set labelcolor=55 126 184; set fillcolor=55 126 184;deselect all;
+
+find searchtext=|1977|; 
+set color=55 126 184;set labelcolor=55 126 184; set fillcolor=55 126 184;deselect all;
+
+find searchtext=|1978|; 
+set color=55 126 184;set labelcolor=55 126 184; set fillcolor=55 126 184;deselect all;
+
+find searchtext=|1979|; 
+set color=55 126 184;set labelcolor=55 126 184; set fillcolor=55 126 184;deselect all;
+
+
+
+find searchtext=|1980|; 
+set color=77 175 74;set labelcolor=77 175 74; set fillcolor=77 175 74;deselect all;
+find searchtext=|1981|; 
+set color=77 175 74;set labelcolor=77 175 74; set fillcolor=77 175 74;deselect all;
+find searchtext=|1982|; 
+set color=77 175 74;set labelcolor=77 175 74; set fillcolor=77 175 74;deselect all;
+find searchtext=|1983|; 
+set color=77 175 74;set labelcolor=77 175 74; set fillcolor=77 175 74;deselect all;
+find searchtext=|1984|; 
+set color=77 175 74;set labelcolor=77 175 74; set fillcolor=77 175 74;deselect all;
+find searchtext=|1985|; 
+set color=77 175 74;set labelcolor=77 175 74; set fillcolor=77 175 74;deselect all;
+find searchtext=|1986|; 
+set color=77 175 74;set labelcolor=77 175 74; set fillcolor=77 175 74;deselect all;
+find searchtext=|1987|; 
+set color=77 175 74;set labelcolor=77 175 74; set fillcolor=77 175 74;deselect all;
+find searchtext=|1988|; 
+set color=77 175 74;set labelcolor=77 175 74; set fillcolor=77 175 74;deselect all;
+find searchtext=|1989|; 
+set color=77 175 74;set labelcolor=77 175 74; set fillcolor=77 175 74;deselect all;
+
+
+find searchtext=|1990|;
+set color=152 78 163;set labelcolor=152 78 163; set fillcolor=152 78 163;deselect all;
+find searchtext=|1991|;
+set color=152 78 163;set labelcolor=152 78 163; set fillcolor=152 78 163;deselect all;
+find searchtext=|1992|;
+set color=152 78 163;set labelcolor=152 78 163; set fillcolor=152 78 163;deselect all;
+find searchtext=|1993|;
+set color=152 78 163;set labelcolor=152 78 163; set fillcolor=152 78 163;deselect all;
+find searchtext=|1994|;
+set color=152 78 163;set labelcolor=152 78 163; set fillcolor=152 78 163;deselect all;
+
+
+find searchtext=|1995|;
+set color=115 115 115;set labelcolor=115 115 115; set fillcolor=15 115 115;deselect all;
+find searchtext=|1996|;
+set color=115 115 115;set labelcolor=115 115 115; set fillcolor=15 115 115;deselect all;
+find searchtext=|1997|;
+set color=115 115 115;set labelcolor=115 115 115; set fillcolor=15 115 115;deselect all;
+find searchtext=|1998|;
+set color=115 115 115;set labelcolor=115 115 115; set fillcolor=15 115 115;deselect all;
+find searchtext=|1999|;
+set color=115 115 115;set labelcolor=115 115 115; set fillcolor=15 115 115;deselect all;
+
+
+find searchtext=|2000|;
+set color=255 127  0;set labelcolor=255 127  0; set fillcolor=255 127  0;deselect all;
+find searchtext=|2001|;
+set color=255 127  0;set labelcolor=255 127  0; set fillcolor=255 127  0;deselect all;
+find searchtext=|2002|;
+set color=255 127  0;set labelcolor=255 127  0; set fillcolor=255 127  0;deselect all;
+find searchtext=|2003|;
+set color=255 127  0;set labelcolor=255 127  0; set fillcolor=255 127  0;deselect all;
+find searchtext=|2004|;
+set color=255 127  0;set labelcolor=255 127  0; set fillcolor=255 127  0;deselect all;
+
+
+find searchtext=|2005|;
+set color=255 255 51;set labelcolor=255 255 51; set fillcolor=255 255 51;deselect all;
+find searchtext=|2006|;
+set color=255 255 51;set labelcolor=255 255 51; set fillcolor=255 255 51;deselect all;
+find searchtext=|2007|;
+set color=255 255 51;set labelcolor=255 255 51; set fillcolor=255 255 51;deselect all;
+find searchtext=|2008|;
+set color=255 255 51;set labelcolor=255 255 51; set fillcolor=255 255 51;deselect all;
+find searchtext=|2009|;
+set color=255 255 51;set labelcolor=255 255 51; set fillcolor=255 255 51;deselect all;
+
+
+find searchtext=|2010|;
+set color=166 86 40;set labelcolor=166 86 40; set fillcolor=166 86 40;deselect all;
+find searchtext=|2011|;
+set color=166 86 40;set labelcolor=166 86 40; set fillcolor=166 86 40;deselect all;
+find searchtext=|2012|;
+set color=166 86 40;set labelcolor=166 86 40; set fillcolor=166 86 40;deselect all;
+find searchtext=|2013|;
+set color=166 86 40;set labelcolor=166 86 40; set fillcolor=166 86 40;deselect all;
+find searchtext=|2014|;
+set color=166 86 40;set labelcolor=166 86 40; set fillcolor=166 86 40;deselect all;
+
+
+find searchtext=|2015|;
+set color=247 129 191;set labelcolor=247 129 191; set fillcolor=247 129 191;deselect all;
+find searchtext=|2016|;
+set color=247 129 191;set labelcolor=247 129 191; set fillcolor=247 129 191;deselect all;
+find searchtext=|2017|;
+set color=247 129 191;set labelcolor=247 129 191; set fillcolor=247 129 191;deselect all;
+find searchtext=|2018|;
+set color=247 129 191;set labelcolor=247 129 191; set fillcolor=247 129 191;deselect all;
+
+
+
+select edges=all; set color=189   183   107;

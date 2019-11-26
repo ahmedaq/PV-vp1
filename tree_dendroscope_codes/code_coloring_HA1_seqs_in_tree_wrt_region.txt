@@ -1,0 +1,129 @@
+select all;
+set edgewidth=2;
+deselect all;
+select nodes = leaves; set nodesize = 9; set nodeshape = oval; set color=144   238   144; set fillcolor =144   238   144;
+deselect all; 
+
+find searchtext=Pakistan; 
+set color=228    26    28;set labelcolor=228    26    28;set fillcolor=228    26    28;deselect all;
+
+find searchtext=Afghanistan; 
+set color=228    26    28;set labelcolor=228    26    28;set fillcolor=228    26    28;deselect all;
+
+find searchtext=India; 
+set color=228    26    28;set labelcolor=228    26    28;set fillcolor=228    26    28;deselect all;
+
+
+
+find searchtext=Egypt; 
+set color=55   126   184;set labelcolor=55   126   184;set fillcolor=55   126   184;deselect all;
+
+
+
+find searchtext=DRC; 
+set color=77   175    74;set labelcolor=77   175    74;set fillcolor=77   175    74;deselect all;
+
+find searchtext=Congo; 
+set color=77   175    74;set labelcolor=77   175    74;set fillcolor=77   175    74;deselect all;
+
+find searchtext=Zambia;
+set color=77   175    74;set labelcolor=77   175    74;set fillcolor=77   175    74;deselect all;
+
+find searchtext=Angola;
+set color=77   175    74;set labelcolor=77   175    74;set fillcolor=77   175    74;deselect all;
+
+find searchtext=RC;
+set color=77   175    74;set labelcolor=77   175    74;set fillcolor=77   175    74;deselect all;
+
+find searchtext=Gabon;
+set color=77   175    74;set labelcolor=77   175    74;set fillcolor=77   175    74;deselect all;
+
+find searchtext=Zimbabwe;
+set color=77   175    74;set labelcolor=77   175    74;set fillcolor=77   175    74;deselect all;
+
+find searchtext=Namibia;
+set color=77   175    74;set labelcolor=77   175    74;set fillcolor=77   175    74;deselect all;
+
+
+
+find searchtext=Israel;
+set color=152    78   163;set labelcolor=152    78   163;set fillcolor=152    78   163;deselect all;
+
+find searchtext=Gaza;
+set color=152    78   163;set labelcolor=152    78   163;set fillcolor=152    78   163;deselect all;
+
+find searchtext=GazaStrip;
+set color=152    78   163;set labelcolor=152    78   163;set fillcolor=152    78   163;deselect all;
+
+
+
+find searchtext=Ghana;
+set color=115   115   115;set labelcolor=115   115   115;set fillcolor=115   115   115;deselect all;
+
+find searchtext=Chad;
+set color=115   115   115;set labelcolor=115   115   115;set fillcolor=115   115   115;deselect all;
+
+find searchtext=Nigeria;
+set color=115   115   115;set labelcolor=115   115   115;set fillcolor=115   115   115;deselect all;
+
+find searchtext=Niger;
+set color=115   115   115;set labelcolor=115   115   115;set fillcolor=115   115   115;deselect all;
+
+find searchtext=Cameroon;
+set color=115   115   115;set labelcolor=115   115   115;set fillcolor=115   115   115;deselect all;
+
+find searchtext=Mali;
+set color=115   115   115;set labelcolor=115   115   115;set fillcolor=115   115   115;deselect all;
+
+find searchtext=Guinea;
+set color=115   115   115;set labelcolor=115   115   115;set fillcolor=115   115   115;deselect all;
+
+
+
+
+
+find searchtext=Brazil;
+set color=255   127    0;set labelcolor=255   127    0;set fillcolor=255   127    0;deselect all;
+
+find searchtext=Ecuador;
+set color=255   127    0;set labelcolor=255   127    0;set fillcolor=255   127    0;deselect all;
+
+find searchtext=Venezuela;
+set color=255   127    0;set labelcolor=255   127    0;set fillcolor=255   127    0;deselect all;
+
+find searchtext=Colombia;
+set color=255   127    0;set labelcolor=255   127    0;set fillcolor=255   127    0;deselect all;
+
+find searchtext=Peru;
+set color=255   127    0;set labelcolor=255   127    0;set fillcolor=255   127    0;deselect all;
+
+find searchtext=Argentina;
+set color=255   127    0;set labelcolor=255   127    0;set fillcolor=255   127    0;deselect all;
+
+
+
+find searchtext=Russia;
+set color=255   255    51;set labelcolor=255   255    51;set fillcolor=255   255    51;deselect all;
+
+find searchtext=Tajikistan;
+set color=255   255    51;set labelcolor=255   255    51;set fillcolor=255   255    51;deselect all;
+
+find searchtext=Turkmenistan;
+set color=255   255    51;set labelcolor=255   255    51;set fillcolor=255   255    51;deselect all;
+
+
+
+find searchtext=Bulgaria;
+set color=166    86    40;set labelcolor=166    86    40;set fillcolor=166    86    40;deselect all;
+
+find searchtext=Albania;
+set color=166    86    40;set labelcolor=166    86    40;set fillcolor=166    86    40;deselect all;
+
+
+
+find searchtext=China;
+set color=247   129   191;set labelcolor=247   129   191;set fillcolor=247   129   191;deselect all;
+
+select edges=all; set color=189   183   107;
+
+
