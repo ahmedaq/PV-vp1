@@ -6,6 +6,8 @@
 *  [Requirements](#requirements)
 *  [Usage](#usage)
 *  [Troubleshooting](#troubleshooting)
+*  [Citation](#citation)
+
 
 ## Overview
 This software package comprises scripts that include the main functions for reproducing the results presented in the paper titled "Deconvolving mutational patterns of poliovirus outbreaks reveals its intrinsic fitness landscape".
@@ -57,3 +59,10 @@ For visualizing the step-by-step procedure and the corresponding output
 
 ## Troubleshooting
 For any questions or comments, please email at ahmedaq@gmail.com. 
+
+
+## Citation
+#### Plain text
+Ahmed A Quadeer, John P Barton, Arup K Charaborty, Matthew R McKay, Deconvolving mutational patterns of poliovirus outbreaks reveals its intrinsic fitness landscape, <i>Nature Communications</i>, 2019.
+
+
